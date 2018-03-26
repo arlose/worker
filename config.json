@@ -1,0 +1,12 @@
+{
+    "gpuid": 1,
+    "usrname" : "fj",
+    "workername" : "worker103_",
+    "rootpath" : "/home/mq/ImageServer/static/user/",
+    "serverpath" : "/home/mq/ImageServer/static/user/",
+    "dbip" : "localhost",
+    "dbport" : 3306,
+    "dbroot" : "root",
+    "dbname" : "ImageServer",
+    "dbcharset" : "utf8"
+}
